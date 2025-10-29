@@ -1,0 +1,7 @@
+# No external dependencies required
+# This program uses only Python standard library modules:
+# - smtplib (for SMTP email sending)
+# - email (for email message formatting)
+# - getpass (for secure password input)
+# - os (for file operations)
+# - sys (for command line arguments)
