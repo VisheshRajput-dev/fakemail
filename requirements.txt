@@ -1,7 +1,8 @@
-# No external dependencies required
-# This program uses only Python standard library modules:
+# Required dependencies for enhanced email functionality
+mammoth>=1.4.0  # For converting Word documents to HTML
+
+# Standard library modules used:
 # - smtplib (for SMTP email sending)
 # - email (for email message formatting)
-# - getpass (for secure password input)
 # - os (for file operations)
 # - sys (for command line arguments)

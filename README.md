@@ -131,7 +131,6 @@ python fake_email_sender_windows.py
 
 #### **Option 3: Advanced Version**
 ```cmd
-python advanced_fake_email_sender.py
 ```
 
 #### **Option 4: Simple Example**
